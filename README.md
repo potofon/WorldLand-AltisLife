@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+<h1 align="center">SealDrop Altis-Life</h1>
+<p align="center">
+    <a href="https://github.com/potofon/WorldLand-AltisLife">
+        <img src="https://img.shields.io/badge/version-3.1.4.8-blue.svg" alt="Changelog" />
+    </a>
+    <a href="https://arma3.com">
+        <img src="https://img.shields.io/badge/arma3-1.80-red.svg" alt="ArmA 3" />
+    </a>
+    <a href="https://bitbucket.org/torndeco/extdb3">
+        <img src="https://img.shields.io/badge/extDB2-71-yellow.svg" alt="extDB3 GitHub" />
+    </a>
+    <a href="https://github.com/potofon/WorldLand-AltisLife/archive/master.zip">
+        <img src="https://img.shields.io/badge/download-22 MB-bc0092.svg" alt="Download" />
+    </a>
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en_US">
+        <img src="https://img.shields.io/badge/license-CC--BY--NC--ND-4CB697.svg" alt="License" />
+    </a>
+    <a href="https://spainfactory.eu">
+        <img src="https://img.shields.io/badge/support-support.sealdrop.de-green.svg" alt="WorldLand Support" />
+    </a>
+</p>
 
-You can use the [editor on GitHub](https://github.com/potofon/WorldLand-AltisLife/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+WorldLand AltisLife was edited by [Potofon](https://github.com/potofon).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###License
+WorldLand AltisLife by Potofon is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</br>
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en_US</br>
 
-### Markdown
+Only files with "Author: Potofon" are created by me and licensed under "CC-BY-NC-ND".
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Documentation / Wiki</br>
+Here you can find all usefull informations about AltisLife. [Visit the wiki](https://github.com/potofon/WorldLand-AltisLife/wiki)
 
-```markdown
-Syntax highlighted code block
+###Installation
+You can find the installation steps here: [Installation Guide](https://github.com/potofon/WorldLand-AltisLife/wiki)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/potofon/WorldLand-AltisLife/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###Creator of Altis-Life
+[Tonic](https://github.com/TAWTonic)
