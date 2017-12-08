@@ -1,4 +1,4 @@
-<h1 align="center">SealDrop Altis-Life</h1>
+<h1 align="center">WorldLand Altis-Life</h1>
 <p align="center">
     <a href="https://github.com/potofon/WorldLand-AltisLife">
         <img src="https://img.shields.io/badge/version-3.1.4.8-blue.svg" alt="Changelog" />
