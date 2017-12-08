@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/license-CC--BY--NC--ND-4CB697.svg" alt="License" />
     </a>
     <a href="https://spainfactory.eu">
-        <img src="https://img.shields.io/badge/support-support.sealdrop.de-green.svg" alt="WorldLand Support" />
+        <img src="https://i.imgur.com/4pLhSaq.png" alt="WorldLand Support" />
     </a>
 </p>
 
