@@ -1,13 +1,13 @@
 <h1 align="center">WorldLand Altis-Life</h1>
 <p align="center">
     <a href="https://github.com/potofon/WorldLand-AltisLife">
-        <img src="https://img.shields.io/badge/version-3.1.4.8-blue.svg" alt="Changelog" />
+        <img src="https://i.imgur.com/L5iS0X1.png" alt="Changelog" />
     </a>
     <a href="https://arma3.com">
         <img src="https://img.shields.io/badge/arma3-1.80-red.svg" alt="ArmA 3" />
     </a>
     <a href="https://bitbucket.org/torndeco/extdb3">
-        <img src="https://img.shields.io/badge/extDB2-71-yellow.svg" alt="extDB3 GitHub" />
+        <img src="https://i.imgur.com/A2sEbse.png" alt="extDB3 GitHub" />
     </a>
     <a href="https://github.com/potofon/WorldLand-AltisLife/archive/master.zip">
         <img src="https://img.shields.io/badge/download-22 MB-bc0092.svg" alt="Download" />
